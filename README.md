@@ -96,3 +96,12 @@ Uma message queue é uma área de armazenamento temporária onde as mensagens s�
 
 Um binding é um link entre uma queue e um exchange. Um binding é criado por um exchange e uma queue. O exchange é a fonte das mensagens e a queue é o destino das mensagens. O binding é criado pelo exchange e a queue. O binding é criado pelo exchange e a queue. O binding é criado pelo exchange e a queue.
 
+## Exchanges
+
+Um exchange é um componente do RabbitMQ que recebe as mensagens de um ou mais produtores e as envia para uma ou mais filas. Um exchange é um componente do RabbitMQ que recebe as mensagens de um ou mais produtores e as envia para uma ou mais filas. Um exchange é um componente do RabbitMQ que recebe as mensagens de um ou mais produtores e as envia para uma ou mais filas. Um exchange é um componente do RabbitMQ que recebe as mensagens de um ou mais produtores e as envia para uma ou mais filas.
+
+## Filas
+
+Uma fila é um componente do RabbitMQ que armazena as mensagens. Uma fila é um componente do RabbitMQ que armazena as mensagens. Uma fila é um componente do RabbitMQ que armazena as mensagens. Uma fila é um componente do RabbitMQ que armazena as mensagens.
+
+![RabbitMQ interface](https://www.cloudamqp.com/img/blog/management-overview.png)
